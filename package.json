@@ -1,6 +1,6 @@
 {
   "name": "dropzone-nuget",
-  "version": "5.1.0",
+  "version": "5.1.1",
   "description": "Public nuget package for dropzone.js lib.",
   "author": "Chris Kirby",
   "homepage": "https://github.com/sirkirby/dropzone-nuget",
